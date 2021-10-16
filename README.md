@@ -16,6 +16,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="http://servatj.me"><img src="https://avatars.githubusercontent.com/u/3521485?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Josep Servat</b></sub></a><br /><a href="https://github.com/divance-cryptos/divance-talks/commits?author=servatj" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Betisman"><img src="https://avatars.githubusercontent.com/u/11455322?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Carlos Jiménez</b></sub></a><br /><a href="#talk-betisman" title="Talks">📢</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/joseantoniodorado/"><img src="https://avatars.githubusercontent.com/u/10512893?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jose Antonio Dorado</b></sub></a><br /><a href="#talk-jadorado" title="Talks">📢</a></td>
   </tr>
 </table>
 
