@@ -40,6 +40,15 @@
       "contributions": [
         "talk"
       ]
+    },
+    {
+      "login": "javiermanzano",
+      "name": "Javier Manzano Morilla",
+      "avatar_url": "https://avatars.githubusercontent.com/u/829772?v=4",
+      "profile": "http://soamee.com",
+      "contributions": [
+        "talk"
+      ]
     }
   ],
   "contributorsPerLine": 7,
